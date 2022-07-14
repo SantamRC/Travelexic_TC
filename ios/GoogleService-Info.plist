@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>752546061885-1575f9tjnscbje933lok5f4knhtg2uod.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.752546061885-1575f9tjnscbje933lok5f4knhtg2uod</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>752546061885-8c9db2a4qdtj1vgt41s42a236vpqi70m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIeNzUD8CLgCIMSomxZh1i__DtRKLUQrc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>752546061885</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.travelexic.thomascook</string>
+	<key>PROJECT_ID</key>
+	<string>travelexic-196705</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travelexic-196705.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:752546061885:ios:3660dcacb713ace448d454</string>
+	<key>DATABASE_URL</key>
+	<string>https://travelexic-196705.firebaseio.com</string>
+</dict>
+</plist>

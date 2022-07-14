@@ -1,0 +1,147 @@
+{
+  "project_info": {
+    "project_number": "752546061885",
+    "firebase_url": "https://travelexic-196705.firebaseio.com",
+    "project_id": "travelexic-196705",
+    "storage_bucket": "travelexic-196705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752546061885:android:13913dde3bc8f24d",
+        "android_client_info": {
+          "package_name": "com.travelexic_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752546061885-2npitn6s7pco8p9oqt0dt6jkbk6q7v3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelexic_one",
+            "certificate_hash": "50ef5ff493ab9462d3f5d4a451c81434f32e5849"
+          }
+        },
+        {
+          "client_id": "752546061885-2tc1ljibi19cjbmem6lu4r2pscukhj8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelexic_one",
+            "certificate_hash": "3f26ab3ded44bd4facab7f06e6ba0c26a7d7111a"
+          }
+        },
+        {
+          "client_id": "752546061885-8c9db2a4qdtj1vgt41s42a236vpqi70m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelexic_one",
+            "certificate_hash": "b5db01e80dd22cfd9f53d99b03d154655e2f15a5"
+          }
+        },
+        {
+          "client_id": "752546061885-ev7h81vhajnnb7nn7rh7ij0t8cfuglqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelexic_one",
+            "certificate_hash": "eca73f7cdf28f15cc427dd1b782d384daf294920"
+          }
+        },
+        {
+          "client_id": "752546061885-fld4l7gv3tthgphd3ru7b0u22uimdamp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelexic_one",
+            "certificate_hash": "842e32021a4869c495c5934f1a8f20625f9eee3a"
+          }
+        },
+        {
+          "client_id": "752546061885-pqoq2ood1o43uuo6opo4vjm4tqn3t15o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelexic_one",
+            "certificate_hash": "98532bd1d444c9fa9c808f3d83cdf11646fbf2c5"
+          }
+        },
+        {
+          "client_id": "752546061885-jlem8nfr8ndj7lgvka9gb53hih111iul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltu1nAC3EQ-mXOdCPqaia7uC374cku2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752546061885-jlem8nfr8ndj7lgvka9gb53hih111iul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752546061885-328ihlpgr91dj0ecdugeen4pvsks9l60.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.travelexic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752546061885:android:31bc27c37f8b53c048d454",
+        "android_client_info": {
+          "package_name": "com.travelexic_one.sotc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752546061885-2k6k4u0bdomhn081c1ub58bn5dcj01i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelexic_one.sotc",
+            "certificate_hash": "eca73f7cdf28f15cc427dd1b782d384daf294920"
+          }
+        },
+        {
+          "client_id": "752546061885-99bqvviv735fqste95knr134eu6gpugt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelexic_one.sotc",
+            "certificate_hash": "c1bca34d15c336ce59247ebfacc75913dec07549"
+          }
+        },
+        {
+          "client_id": "752546061885-jlem8nfr8ndj7lgvka9gb53hih111iul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltu1nAC3EQ-mXOdCPqaia7uC374cku2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752546061885-jlem8nfr8ndj7lgvka9gb53hih111iul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752546061885-328ihlpgr91dj0ecdugeen4pvsks9l60.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.travelexic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
